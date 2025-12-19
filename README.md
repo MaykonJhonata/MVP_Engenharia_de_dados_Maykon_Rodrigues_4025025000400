@@ -33,7 +33,7 @@ CSV (Kaggle)
 
 ---
 
-## 📂 Organização dos Notebooks
+## Organização dos Notebooks
 
 | Ordem | Notebook | Descrição |
 |---|---|---|
@@ -48,7 +48,7 @@ CSV (Kaggle)
 
 ---
 
-## 📸 Evidências da Execução
+## Evidências da Execução
 
 ### Ingestão e Persistência dos Dados
 
@@ -96,7 +96,7 @@ CSV (Kaggle)
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Databricks Community Edition  
 - Apache Spark (PySpark)  
@@ -106,6 +106,6 @@ CSV (Kaggle)
 
 ---
 
-## 📌 Considerações Finais
+## Considerações Finais
 
 O MVP atingiu seus objetivos ao demonstrar a construção de um pipeline de dados em nuvem, a aplicação de boas práticas de engenharia de dados e a obtenção de insights relevantes para manutenção preditiva. A solução evidencia como arquiteturas em camadas e modelagem dimensional podem apoiar decisões baseadas em dados no contexto industrial.
