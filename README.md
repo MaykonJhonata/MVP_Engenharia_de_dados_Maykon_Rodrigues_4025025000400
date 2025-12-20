@@ -13,10 +13,13 @@ O conjunto de dados utilizado refere-se à **manutenção preditiva de equipamen
 
 Responder às seguintes perguntas de negócio:
 
+As análises apresentadas neste notebook têm como objetivo responder às seguintes perguntas de negócio:
+
 1. Quais variáveis operacionais estão mais associadas à ocorrência de falhas?
-2. Existem padrões operacionais relacionados a falhas?
-3. Quais tipos de falha ocorrem com maior frequência?
-4. Existem tipos de máquinas mais suscetíveis a falhas?
+2. Existem padrões operacionais relacionados a maiores taxas de falha?
+3. É possível identificar condições de operação associadas a menor probabilidade de falha?
+4. Como se comportam as principais métricas operacionais em cenários de falha e de operação normal?
+5. De que forma a análise desses dados pode apoiar estratégias de manutenção preditiva?
 
 Para isso, foi desenvolvido um pipeline estruturado em camadas **Bronze, Silver e Gold**.
 
