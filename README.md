@@ -1,6 +1,6 @@
 # MVP – Engenharia de Dados  
 **Aluno:** Maykon Jhonata Rodrigues  
-**Matrícula:** 4025025000400  
+**Matrícula:** 4052025000400  
 **Dataset:** AI4I 2020 Predictive Maintenance  
 
 Este projeto apresenta o desenvolvimento de um **MVP de Engenharia de Dados**, cujo objetivo foi construir um **pipeline completo de dados em nuvem**, contemplando ingestão, tratamento, modelagem, carga e análise de dados, utilizando **Databricks Community Edition** e **Delta Lake**.
